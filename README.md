@@ -1,5 +1,6 @@
-## Olá! Bem vindo ao meu perfil do GitHub!
-### Welcome to my GitHub profile!
+<h2>Olá! Bem vindo ao meu perfil do GitHub! <br>
+Welcome to my GitHub profile!
+</h2>
 
 - Gabriel Augusto, 24y
 - Front-End/Wordpress Developer - WebDesigner
