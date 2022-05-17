@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 
 <div align="center">
   
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielAugustoGSouza&theme=tokyonight">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoGSouza&theme=tokyonight">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielAugustoGSouza&theme=tokyonight">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAugustoGSouza&theme=tokyonight">
   
 </div>
 
